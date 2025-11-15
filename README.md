@@ -209,21 +209,6 @@ Contributions, bug reports, and PRs are welcome. Good ways to help:
 
 Be kind and keep commit messages descriptive.
 
-## License & Contact
-
-This project is provided as-is for learning and demonstration. Add a `LICENSE` file if you want to open-source it under a specific license.
-
-Questions or suggestions? Open an issue or reach out to the project maintainer.
-
----
-
-If you'd like, I can also:
-
-- Add a small demo GIF to `assets/` and update the README to show it
-- Add badges (build/test/coverage) to the top of this README
-- Convert the Quick Start to separate Windows PowerShell and Unix command blocks
-
-Tell me which of those you'd like next and I'll apply it.
 
 
 
